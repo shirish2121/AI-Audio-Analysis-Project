@@ -1,8 +1,8 @@
 let currentHost = window.location.origin;
 
-if (window.location.hostname != "localhost") {
-  window.location.hostname = "localhost";
-}
+// if (window.location.hostname != "localhost") {
+//   window.location.hostname = "localhost";
+// }
 
 // document.addEventListener('DOMContentLoaded', (event) => {
 //     const userId = localStorage.getItem('userId');
